@@ -81,7 +81,7 @@ function App() {
 
         <p style={{ fontWeight: "Bold" }}>Billetera actual: {walletActual}</p>
         <p style={{ fontWeight: "Bold" }}>
-          Billetera actual ETH: {balanceActualETH}
+          Billetera actual MATIC: {balanceActualETH}
         </p>
         <Button
           variant="contained"
