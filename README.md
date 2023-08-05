@@ -8,13 +8,11 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 - +Juan Sebastian Giraldo Duque (https://github.com/jusegidu)
 
 +Alexander Saldarriaga Vélez
-
 -Carlos Mario Herrera Acevedo
-
 -John Alexander Ramirez Giraldo
-
-- Héctor David Arenas Gallego
+-Luis Rico (elchimex) https://github.com/LuisRicoX 
 - [Jonathan Cardona Rojas](https://github.com/jdnichollsc)
 - [Cesar Florez](https://github.com/sernamedez)
 - [Daniel Pérez Vitola](https://github.com/dapevi1997)
 - Jonathan Marin Pavia
+- [Anderson Gomez Tobon](https://github.com/KitLuc)
