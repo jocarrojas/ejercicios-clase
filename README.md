@@ -11,3 +11,4 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 
 -Carlos Mario Herrera Acevedo
 - Héctor David Arenas Gallego
+- [Jonathan Cardona Rojas](https://github.com/jdnichollsc)
