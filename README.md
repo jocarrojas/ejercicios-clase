@@ -8,3 +8,4 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 - +Juan Sebastian Giraldo Duque (https://github.com/jusegidu)
 
 +Alexander Saldarriaga Vélez
+-Carlos Mario Herrera Acevedo
