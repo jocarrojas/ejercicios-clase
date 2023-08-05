@@ -21,3 +21,4 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 - Angel Andres Santana Valencia
 - Beatriz Elena Gutierrez
 - Andres felipe Carvajal
+- [JsMendoza13](https://github.com/JsMendoza13)
