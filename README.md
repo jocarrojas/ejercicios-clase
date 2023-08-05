@@ -3,9 +3,11 @@ usando ethers y web3
 
 LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 
+#[David Estrada](https://github.com/destrada29)
 +Mauricio Henao
 - [Juan David Nicholls Cardona](https://github.com/jdnichollsc)
-- +Juan Sebastian Giraldo Duque (https://github.com/jusegidu)
+- [Juan Sebastian Giraldo Duque](https://github.com/jusegidu)
+- [Giovanny Salcedo](https://github.com/GioSalcedo)
 
 +Alexander Saldarriaga Vélez
 -Carlos Mario Herrera Acevedo
@@ -17,3 +19,5 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 - Jonathan Marin Pavia
 - [Anderson Gomez Tobon](https://github.com/KitLuc)
 - Angel Andres Santana Valencia
+- Beatriz Elena Gutierrez
+- Andres felipe Carvajal
