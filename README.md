@@ -18,3 +18,4 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 - [Anderson Gomez Tobon](https://github.com/KitLuc)
 - Angel Andres Santana Valencia
 - Beatriz Elena Gutierrez
+- Andres felipe Carvajal
