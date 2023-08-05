@@ -11,3 +11,4 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 
 -Carlos Mario Herrera Acevedo
 - Héctor David Arenas Gallego
+-Luis Rico (elchimex) https://github.com/LuisRicoX 
