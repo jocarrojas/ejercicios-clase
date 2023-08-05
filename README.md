@@ -10,6 +10,9 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 +Alexander Saldarriaga Vélez
 
 -Carlos Mario Herrera Acevedo
+
+-John Alexander Ramirez Giraldo
+
 - Héctor David Arenas Gallego
 - [Jonathan Cardona Rojas](https://github.com/jdnichollsc)
 - [Cesar Florez](https://github.com/sernamedez)
