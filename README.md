@@ -3,6 +3,7 @@ usando ethers y web3
 
 LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 
+#[David Estrada](https://github.com/destrada29)
 +Mauricio Henao
 - [Juan David Nicholls Cardona](https://github.com/jdnichollsc)
 - [Juan Sebastian Giraldo Duque](https://github.com/jusegidu)
