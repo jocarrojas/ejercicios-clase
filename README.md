@@ -24,3 +24,4 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 - Beatriz Elena Gutierrez
 - Andres felipe Carvajal
 - [Jesus Mendoza Martinez](https://github.com/JsMendoza13)
+- Josue Duque Gutierrez
