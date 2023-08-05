@@ -11,6 +11,8 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 
 +Alexander Saldarriaga Vélez
 -Carlos Mario Herrera Acevedo
+
+-Jhon Edison Muñoz Banguero
 -John Alexander Ramirez Giraldo
 -Luis Rico (elchimex) https://github.com/LuisRicoX 
 - [Jonathan Cardona Rojas](https://github.com/jdnichollsc)
