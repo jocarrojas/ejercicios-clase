@@ -12,3 +12,8 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 -Carlos Mario Herrera Acevedo
 
 -Jhon Edison Muñoz Banguero
+-John Alexander Ramirez Giraldo
+
+- Héctor David Arenas Gallego
+- [Jonathan Cardona Rojas](https://github.com/jdnichollsc)
+- [Cesar Florez](https://github.com/sernamedez)
