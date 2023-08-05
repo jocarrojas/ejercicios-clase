@@ -10,3 +10,5 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 +Alexander Saldarriaga Vélez
 
 -Carlos Mario Herrera Acevedo
+
+-John Alexander Ramirez Giraldo
