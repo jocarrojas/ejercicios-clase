@@ -14,3 +14,4 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 -John Alexander Ramirez Giraldo
 
 - Héctor David Arenas Gallego
+- [Jonathan Cardona Rojas](https://github.com/jdnichollsc)
