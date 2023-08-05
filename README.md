@@ -16,3 +16,4 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 - Héctor David Arenas Gallego
 - [Jonathan Cardona Rojas](https://github.com/jdnichollsc)
 - [Cesar Florez](https://github.com/sernamedez)
+- [Daniel Pérez Vitola](https://github.com/dapevi1997)
